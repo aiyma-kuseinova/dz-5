@@ -121,7 +121,7 @@ const postData = (form) => {
   });
 };
 const body = document.getElementsByTagName('html')
-const modal1 = document.querySelector('.modal')
+const modal1 = document.c('.modal')
 const modalClose = document.querySelector('.modal__close')
 window.addEventListener('scroll', ()=> {
 
